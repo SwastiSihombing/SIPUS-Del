@@ -1,4 +1,3 @@
-
 # SIPUS-Del
 ## Sistem Informasi Perpustakaan Kampus
 
@@ -280,7 +279,7 @@ Audit query dilakukan dengan Laravel Tinker menggunakan query log untuk memeriks
 
 Proyek dikelola menggunakan Git dan diunggah ke GitHub.
 
-Repository: [ppw-2026-week5-12S24030 di GitHub]
+Repository: [ppw-2026-week5-12S24030 di GitHub](https://github.com/SwastiSihombing/ppw-2026-week5-12S24030.git)
 
 File `.env` lokal tidak boleh diunggah karena dapat berisi konfigurasi sensitif. Gunakan `.env.example` sebagai contoh konfigurasi lingkungan.
 
