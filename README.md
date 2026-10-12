@@ -134,8 +134,9 @@ Sebelum menjalankan aplikasi, pastikan perangkat telah memiliki:
 ### A. Clone Repository
 
 ```bash
-git clone https://github.com/SwastiSihombing/SIPUS-Del.git
-cd SIPUS-Del
+```bash
+git clone https://github.com/SwastiSihombing/ppw-2026-week5-12S24030.git
+cd ppw-2026-week5-12S24030
 ```
 
 ### B. Instal Dependensi
@@ -279,7 +280,7 @@ Audit query dilakukan dengan Laravel Tinker menggunakan query log untuk memeriks
 
 Proyek dikelola menggunakan Git dan diunggah ke GitHub.
 
-Repository: [ppw-2026-week5-12S24030 di GitHub](https://github.com/SwastiSihombing/SIPUS-Del.git)
+Repository: [ppw-2026-week5-12S24030 di GitHub]
 
 File `.env` lokal tidak boleh diunggah karena dapat berisi konfigurasi sensitif. Gunakan `.env.example` sebagai contoh konfigurasi lingkungan.
 
